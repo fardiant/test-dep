@@ -22,4 +22,5 @@ spec:
             - /bin/bash
             - -c
             - |
-              while true; do echo ".....presync2...."; sleep 30; done
+              #     while true; do echo ".....presync2...."; sleep 30; done
+                   ls -lrt
